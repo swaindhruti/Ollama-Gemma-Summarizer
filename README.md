@@ -1,1 +1,1 @@
-# Ollama-Gemma-Summarizer-OGS-
+# Ollama-Gemma-Summarizer
