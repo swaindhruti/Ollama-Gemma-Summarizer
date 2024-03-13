@@ -54,3 +54,9 @@ Ollama-Gemma-Summarize/
 ├── requirements.txt
 └── .gitignore
 ```
+
+## 📔 Resources and Credit
+
+- [Project-Idea](https://youtu.be/d3Y9kwufJp0?si=CB8Mj8rcsCz4Ljw6)
+- [Ollama-Module](https://github.com/ollama/ollama-python)
+- [Ollama-Gemma](https://ollama.com/library/gemma)
